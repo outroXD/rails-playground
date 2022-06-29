@@ -31,5 +31,6 @@
 /config/master.key
 
 
+.idea
 vendor/*
 !vendor/.keep
